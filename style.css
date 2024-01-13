@@ -272,7 +272,7 @@ p {
 	margin: 0 auto;
 	padding: 100px 0;
 }
-#services .service-top {
+#services .service-right {
 	max-width: 40%;
 	margin: 0 auto;
 }
@@ -281,7 +281,7 @@ p {
 	align-items: center;
 	justify-content: center;
 	flex-wrap: wrap;
-	margin-top: 10%;
+	margin-top: 40%;
 }
 #services .service-item {
 	flex-basis: 80%;
