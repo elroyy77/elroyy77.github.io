@@ -276,12 +276,12 @@ p {
 	max-width: 40%;
 	margin: 0 auto;
 }
-#services .service-bottom {
+#services .service-left {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	flex-wrap: wrap;
-	margin-top: 50px;
+	margin-top: 10%;
 }
 #services .service-item {
 	flex-basis: 80%;
