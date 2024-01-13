@@ -268,12 +268,12 @@ p {
 #services .services {
 	flex-direction: column;
 	text-align: center;
-	max-width: 1500px;
+	max-width: 50%;
 	margin: 0 auto;
 	padding: 100px 0;
 }
 #services .service-top {
-	max-width: 500px;
+	max-width: 40%;
 	margin: 0 auto;
 }
 #services .service-bottom {
